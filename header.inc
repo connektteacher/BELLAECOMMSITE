@@ -41,17 +41,7 @@
                         <a href="#" class="menu-toggle-close btn"><i class="fa fa-times"></i></a>
                         <ul class="nav sf-menu">
                             <li class="active"><a href="index-2.html">Homepage</a>
-                                <ul>
-                                    <li><a href="index-2.html">Homepage 1</a></li>
-                                    <li><a href="index-3.html">Homepage 2</a></li>
-                                    <li><a href="index-4.html">Homepage 3</a></li>
-                                    <li><a href="index-5.html">Homepage 4</a></li>
-                                    <li><a href="index-6.html">Homepage 5</a></li>
-                                    <li><a href="index-7.html">Homepage 6</a></li>
-                                    <li><a href="index-8.html">Homepage 7</a></li>
-                                    <li><a href="index-9.html">Homepage 8</a></li>
-                                    <li><a href="index-10.html">Homepage 9</a></li>
-                                </ul>
+                              
                             </li>
                             <li><a href="category.html">Shop</a>
                                 <ul>
