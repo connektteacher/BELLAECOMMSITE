@@ -100,7 +100,7 @@
                                                             <h2 class="caption-title">The Biggest</h2>
                                                             <h3 class="caption-subtitle">Sale</h3>
                                                             <p class="caption-text">
-                                                                <a class="btn btn-theme" href="#">Shop Now</a>
+                                                                <a class="btn btn-theme" href="#">Shop1 Now</a>
                                                             </p>
                                                         </div>
                                                     </div>
